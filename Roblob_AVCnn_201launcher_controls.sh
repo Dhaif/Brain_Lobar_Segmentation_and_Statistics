@@ -59,8 +59,8 @@ echo "---FIN ETAPE 2/2 PARTIE 2....---"
 #lancement du script python pour mettre en forme les donnée dans un tableau
 echo "---MISE EN FORME DES DONNEES...---"
 #source activate Python2_env
-chmod +x $script_python/data_volumes_manip_Roblob_AVCnn_controls.py #marquer le script python comme executable
-python $script_python/data_volumes_manip_Roblob_AVCnn_controls.py #executer le script python
+chmod +x $script_python/data_volumes_manip_Roblob_AVCnn_controls_avant_correction.py #marquer le script python comme executable
+python $script_python/data_volumes_manip_Roblob_AVCnn_controls_avant_correction.py #executer le script python
 #source deactivate Python2_env
 echo "---MISE EN FORME TERMINE---"
 
