@@ -29,8 +29,8 @@ save_directory_name=Roblob #dossier ou seront sauvegarder les fichiers de la met
 
 script_bash=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/Script_RobLob/Roblob_pipeline_controls #CHEMIN DU DOSSIER OU SE TROUVE LES SCRIPTS RobLob_launcher, roblob_avcnn_etape_2.sh, Roblob_avcnn_etape1.sh
 script_python=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/Script_RobLob/Roblob_pipeline_controls #CHEMIN DU DOSSIER OU SE TROUVE LE SCRIPTS data_volumes_manip_RobLob_AVCnn.py
-batch_directory=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/Script_RobLob/Roblob_pipeline_controls
-batch_instruction_directory=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/AVCnn_2017_RobLob/subjects/spm_batch/roblob
+batch_directory=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/Script_RobLob/Roblob_pipeline_controls #chemin du dossier ou se trouve le .m qui genere les .mat
+batch_instruction_directory=/neurospin/grip/protocols/MRI/MaximeDeMalherbe_AVCnn_2017/AVCnn_2017_RobLob/subjects/spm_batch/roblob #chemin du dossier ou se trouve les .mat généré par le batch.
 ####---Fin du bloc de parametres---####
 
 
