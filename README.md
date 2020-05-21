@@ -34,8 +34,7 @@ Software
 You will need to have on your machine the following software:
 
 * Matlab, at least the R2014a release with the toolbox SPM12.
-* The AIMS functions from the BrainVisa environment need to be
-available.
+* The AIMS functions from the BrainVisa environment need to be available.
 * Python, at least the 3.5 Release.
 
 Launch the pipeline
